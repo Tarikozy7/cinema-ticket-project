@@ -1,4 +1,4 @@
 # cinema-ticket-project
-# cinema-ticket-project
-# cinema-ticket-project
-# cinema-ticket-project
+
+
+![](gif/cinema.gif)
